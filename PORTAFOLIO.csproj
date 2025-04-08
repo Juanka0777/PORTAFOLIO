@@ -6,4 +6,64 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="css\style.css" />
+    <Content Include="img\about.jpg" />
+    <Content Include="img\cr7.jpg" />
+    <Content Include="img\dua.jpg" />
+    <Content Include="img\galGadot.jpg" />
+    <Content Include="img\JuanCarlosRuiz.jpg" />
+    <Content Include="img\JuanCarlosRuiz.png" />
+    <Content Include="img\luka.jpg" />
+    <Content Include="img\portfolio-1.jpg" />
+    <Content Include="img\portfolio-2.jpg" />
+    <Content Include="img\portfolio-3.jpg" />
+    <Content Include="img\portfolio-4.jpg" />
+    <Content Include="img\portfolio-5.jpg" />
+    <Content Include="img\portfolio-6.jpg" />
+    <Content Include="img\profile.jpg" />
+    <Content Include="img\profile.png" />
+    <Content Include="img\quote.png" />
+    <Content Include="img\review-1.jpg" />
+    <Content Include="img\review-2.jpg" />
+    <Content Include="img\review-3.jpg" />
+    <Content Include="index.html" />
+    <Content Include="js\main.js" />
+    <Content Include="lib\easing\easing.js" />
+    <Content Include="lib\easing\easing.min.js" />
+    <Content Include="lib\isotope\isotope.pkgd.js" />
+    <Content Include="lib\isotope\isotope.pkgd.min.js" />
+    <Content Include="lib\lightbox\css\lightbox.css" />
+    <Content Include="lib\lightbox\css\lightbox.min.css" />
+    <Content Include="lib\lightbox\images\close.png" />
+    <Content Include="lib\lightbox\images\loading.gif" />
+    <Content Include="lib\lightbox\images\next.png" />
+    <Content Include="lib\lightbox\images\prev.png" />
+    <Content Include="lib\lightbox\js\lightbox.js" />
+    <Content Include="lib\lightbox\js\lightbox.min.js" />
+    <Content Include="lib\lightbox\links.php" />
+    <Content Include="lib\slick\ajax-loader.gif" />
+    <Content Include="lib\slick\config.rb" />
+    <Content Include="lib\slick\fonts\slick.eot" />
+    <Content Include="lib\slick\fonts\slick.svg" />
+    <Content Include="lib\slick\fonts\slick.ttf" />
+    <Content Include="lib\slick\fonts\slick.woff" />
+    <Content Include="lib\slick\slick-theme.css" />
+    <Content Include="lib\slick\slick-theme.less" />
+    <Content Include="lib\slick\slick-theme.scss" />
+    <Content Include="lib\slick\slick.css" />
+    <Content Include="lib\slick\slick.js" />
+    <Content Include="lib\slick\slick.less" />
+    <Content Include="lib\slick\slick.min.js" />
+    <Content Include="lib\slick\slick.scss" />
+    <Content Include="lib\typed\typed.js" />
+    <Content Include="lib\typed\typed.min.js" />
+    <Content Include="lib\waypoints\links.php" />
+    <Content Include="lib\waypoints\waypoints.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
